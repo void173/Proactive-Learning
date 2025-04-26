@@ -4,7 +4,7 @@ import "./../styles/addstudent.css";
 
 // Example student data from the CSV file (replace with actual CSV data after parsing)
 const studentData = {
-  name: "Awez Sheikh",
+  name: "Awez Bablu Sheikh",
   age: 19,
   sex: "M",
   address: "Urban",
